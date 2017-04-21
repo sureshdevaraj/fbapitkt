@@ -6,19 +6,19 @@
   "keywords": ["api.ai", "facebook", "natural language"],
   "env": {
     "APIAI_ACCESS_TOKEN": {
-      "description": "Client access token for Api.ai",
+      "description": "0b0df306ce58498ba23ecf31503ac615",
       "value": ""
     },
     "FB_VERIFY_TOKEN": {
-      "description": "Verification code",
+      "description": "840c13e9fe8f817ff8a72b18aff00556",
       "value": ""
     },
     "FB_PAGE_ACCESS_TOKEN": {
-      "description": "Page Access Token",
+      "description": "EAAAADg2NdZAkBABb3RpSIZB2klZAADvM3u6w9mQ4jTrZB7ScPN0kDr5He373CESeteLehqZALChy2YCIN4budZCjArc9nT74EuGO9ZBcCDY9ZBI2ZAmC9ZC17zykt2hhTZCBRlt8ZAWLogXeeLoOeQ7qoBKHrGKtT9yZCJW05aXvYDwQDYgZDZD",
       "value": ""
     },
     "APIAI_LANG": {
-      "description": "Agent language",
+      "description": "en",
       "value": "",
       "required": false
     }
